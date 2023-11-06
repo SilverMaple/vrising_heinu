@@ -1,0 +1,45 @@
+{
+  "GameModeType": 0,
+  "CastleDamageMode": 0,
+  "CastleHeartDamageMode": 0,
+  "DeathContainerPermission": 1,
+  "RelicSpawnType": 1,
+  "CanLootEnemyContainers": false,
+  "DropTableModifier_General": 1.5,
+  "DropTableModifier_Missions": 1.5,
+  "MaterialYieldModifier_Global": 1.5,
+  "BloodEssenceYieldModifier": 1.5,
+  "AnnounceSiegeWeaponSpawn": false,
+  "Death_DurabilityFactorLoss": 0.0,
+  "Death_DurabilityLossFactorAsResources": 0.0,
+  "VBloodUnitSettings": [],
+  "UnlockedAchievements": [],
+  "UnlockedResearchs": [],
+  "GameTimeModifiers": {},
+  "VampireStatModifiers": {},
+  "UnitStatModifiers_Global": {
+    "MaxHealthModifier": 0.75,
+    "PowerModifier": 0.75
+  },
+  "UnitStatModifiers_VBlood": {
+    "MaxHealthModifier": 0.75,
+    "PowerModifier": 0.75
+  },
+  "EquipmentStatModifiers_Global": {},
+  "CastleStatModifiers_Global": {
+    "HeartLimits": {
+      "Level1": {},
+      "Level2": {},
+      "Level3": {},
+      "Level4": {},
+      "Level5": {}
+    }
+  },
+  "PlayerInteractionSettings": {
+    "VSPlayerWeekdayTime": {},
+    "VSPlayerWeekendTime": {},
+    "VSCastleWeekdayTime": {},
+    "VSCastleWeekendTime": {}
+  },
+  "TraderModifiers": {}
+}

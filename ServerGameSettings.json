@@ -1,0 +1,47 @@
+{
+  "GameModeType": 0,
+  "CastleDamageMode": 0,
+  "CastleHeartDamageMode": 0,
+  "DeathContainerPermission": 1,
+  "RelicSpawnType": 1,
+  "CanLootEnemyContainers": false,
+  "TeleportBoundItems": false,
+  "InventoryStacksModifier": 5.0,
+  "DropTableModifier_General": 2.0,
+  "DropTableModifier_Missions": 2.0,
+  "MaterialYieldModifier_Global": 2.0,
+  "BloodEssenceYieldModifier": 2.0,
+  "AnnounceSiegeWeaponSpawn": false,
+  "CraftRateModifier": 5.0,
+  "RefinementRateModifier": 5.0,
+  "ServantConvertRateModifier": 20.0,
+  "Death_DurabilityFactorLoss": 0.0,
+  "Death_DurabilityLossFactorAsResources": 0.0,
+  "VBloodUnitSettings": [],
+  "UnlockedAchievements": [],
+  "UnlockedResearchs": [],
+  "GameTimeModifiers": {
+    "DayStartHour": 12,
+    "DayEndHour": 15
+  },
+  "VampireStatModifiers": {},
+  "UnitStatModifiers_Global": {},
+  "UnitStatModifiers_VBlood": {},
+  "EquipmentStatModifiers_Global": {},
+  "CastleStatModifiers_Global": {
+    "HeartLimits": {
+      "Level1": {},
+      "Level2": {},
+      "Level3": {},
+      "Level4": {},
+      "Level5": {}
+    }
+  },
+  "PlayerInteractionSettings": {
+    "VSPlayerWeekdayTime": {},
+    "VSPlayerWeekendTime": {},
+    "VSCastleWeekdayTime": {},
+    "VSCastleWeekendTime": {}
+  },
+  "TraderModifiers": {}
+}
